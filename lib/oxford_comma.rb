@@ -8,5 +8,5 @@
 #end
 
 def oxford_comma(array)
-  return array
+  return array.last
 end
